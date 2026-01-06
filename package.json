@@ -1,16 +1,16 @@
 {
-  "displayName": "Homebridge Cync Lights",
-  "name": "homebridge-cync-lights",
+  "displayName": "Homebridge 2 Cync Lights",
+  "name": "homebridge2-cync-lights",
   "version": "2.0.2",
   "description": "Support for Cync Direct Connect lights by GE.",
   "license": "Apache-2.0",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidashman/homebridge-cync-lights.git"
+    "url": "https://github.com/l33tintheboat/homebridge-cync-lights.git"
   },
   "bugs": {
-    "url": "https://github.com/davidashman/homebridge-cync-lights/issues"
+    "url": "https://github.com/l33tintheboat/homebridge-cync-lights/issues"
   },
   "engines": {
     "node": "^18.17.0 || ^20.9.0 || ^22.0.0 || ^24.0.0 || ^25.0.0",
